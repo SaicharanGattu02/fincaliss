@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935851675130",
+    "project_id": "fincalis-8fec7",
+    "storage_bucket": "fincalis-8fec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935851675130:android:2af3702f530506743aa843",
+        "android_client_info": {
+          "package_name": "com.example.fincalis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcHKC4fCLCkM3LlKlqMtF6kVaDmCVdmOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
